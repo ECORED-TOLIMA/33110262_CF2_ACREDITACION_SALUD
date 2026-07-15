@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Autoevaluación, calificación y mejoramiento en acreditación en salud.'
