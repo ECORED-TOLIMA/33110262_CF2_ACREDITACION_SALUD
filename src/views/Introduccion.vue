@@ -22,7 +22,7 @@
       .col-lg-12
         figure
           .video
-            iframe(width="1331" height="749" src="https://www.youtube.com/embed/AryEigIN0MI" title="Regulatory and Structural Fundamentals of Healthcare Accreditation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            iframe(width="1331" height="749" src="https://www.youtube.com/embed/5vpF0RvH5gY" title="Self-assessment, Qualification, and Improvement in Health Accreditation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
 </template>
 
 <script>
