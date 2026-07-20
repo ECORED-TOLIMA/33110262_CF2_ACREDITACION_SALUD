@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85.881" height="103.301" viewBox="0 0 85.881 103.301">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_458825" data-name="Rectangle 458825" width="58.902" height="57.546" fill="none"/>
+    </clipPath>
+    <filter id="Path_1004430" x="10.482" y="12.127" width="57.42" height="57.42" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1004431" x="-8.999" y="-6" width="57.42" height="57.42" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_458825-2" data-name="Rectangle 458825" width="28.626" height="27.967" fill="none"/>
+    </clipPath>
+    <filter id="Path_1004430-2" x="57.723" y="78.144" width="37.158" height="37.158" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1004431-2" x="48.255" y="69.334" width="37.158" height="37.158" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="banner-principal-decorativo-2" transform="translate(-1274.786 -269.954)">
+    <g id="Group_1183597" data-name="Group 1183597" transform="translate(1274.786 269.954)">
+      <g id="Group_1183596" data-name="Group 1183596" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_1004430)">
+          <path id="Path_1004430-3" data-name="Path 1004430" d="M19.71,4.277V15.433a4.277,4.277,0,0,1-4.277,4.277H4.277A4.277,4.277,0,0,0,0,23.987V35.143A4.277,4.277,0,0,0,4.277,39.42H35.143a4.277,4.277,0,0,0,4.277-4.277V4.277A4.277,4.277,0,0,0,35.143,0H23.987A4.277,4.277,0,0,0,19.71,4.277" transform="translate(58.9 57.55) rotate(180)" fill="#eec212"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_1004431)">
+          <path id="Path_1004431-3" data-name="Path 1004431" d="M19.71,35.143V23.987a4.277,4.277,0,0,1,4.277-4.277H35.143a4.277,4.277,0,0,0,4.277-4.277V4.277A4.277,4.277,0,0,0,35.143,0H4.277A4.277,4.277,0,0,0,0,4.277V35.143A4.277,4.277,0,0,0,4.277,39.42H15.433a4.277,4.277,0,0,0,4.277-4.277" transform="translate(39.42 39.42) rotate(180)" fill="#fee66f"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1183598" data-name="Group 1183598" transform="translate(1332.041 345.288)">
+      <g id="Group_1183596-2" data-name="Group 1183596" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+        <g transform="matrix(1, 0, 0, 1, -57.25, -75.33)" filter="url(#Path_1004430-2)">
+          <path id="Path_1004430-4" data-name="Path 1004430" d="M9.579,2.078V7.5A2.078,2.078,0,0,1,7.5,9.579H2.078A2.078,2.078,0,0,0,0,11.657v5.422a2.079,2.079,0,0,0,2.078,2.078h15a2.079,2.079,0,0,0,2.078-2.078v-15A2.079,2.079,0,0,0,17.079,0H11.657A2.078,2.078,0,0,0,9.579,2.078" transform="translate(85.88 103.3) rotate(180)" fill="#eec212"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -57.25, -75.33)" filter="url(#Path_1004431-2)">
+          <path id="Path_1004431-4" data-name="Path 1004431" d="M9.579,17.079V11.657a2.078,2.078,0,0,1,2.078-2.078h5.422A2.078,2.078,0,0,0,19.158,7.5V2.078A2.079,2.079,0,0,0,17.079,0h-15A2.079,2.079,0,0,0,0,2.078v15a2.079,2.079,0,0,0,2.078,2.078H7.5a2.078,2.078,0,0,0,2.078-2.078" transform="translate(76.41 94.49) rotate(180)" fill="#fee66f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
