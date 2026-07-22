@@ -13,7 +13,7 @@
         :style="{'background-image':`url(${require_src('@/assets/curso/temas/tema1/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La autoevaluación se desarrolla mediante la aplicación de metodologías, herramientas y criterios técnicos que facilitan la recolección, el análisis y la interpretación de información relacionada con los procesos institucionales. Para ello, se consideran tanto datos cualitativos como cuantitativos, los cuales permiten comprender el desempeño de la organización desde diferentes perspectivas y fundamentar la evaluación en evidencias verificables.
+        p.mb-0 La #[b autoevaluación] se desarrolla mediante la aplicación de metodologías, herramientas y criterios técnicos que facilitan la recolección, el análisis y la interpretación de información relacionada con los procesos institucionales. Para ello, se consideran tanto datos cualitativos como cuantitativos, los cuales permiten comprender el desempeño de la organización desde diferentes perspectivas y fundamentar la evaluación en evidencias verificables.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
@@ -187,35 +187,35 @@
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img16.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img17.png', alt='Texto que describa la imagen')
           h4.mb-3 Formatos de autoevaluación
           p.mb-0 Registrar de manera organizada la información obtenida durante la evaluación.
         .tarjeta--boton.bg5.p-4.mb-4
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img16.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img18.png', alt='Texto que describa la imagen')
           h4.mb-3 Indicadores de gestión
           p.mb-0 Medir el desempeño de los procesos mediante datos cuantitativos.
         .tarjeta--boton.bg5.p-4.mb-4
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img16.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img19.png', alt='Texto que describa la imagen')
           h4.mb-3 Matrices de análisis
           p.mb-0 Relacionar evidencias, hallazgos y oportunidades de mejora.
         .tarjeta--boton.bg5.p-4.mb-4
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img16.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img20.png', alt='Texto que describa la imagen')
           h4.mb-3 Registros institucionales
           p.mb-0 Documentar actividades, resultados y evidencias del proceso de evaluación.
         .tarjeta--boton.bg5.p-4.mb-4
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img16.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img21.png', alt='Texto que describa la imagen')
           h4.mb-3 Entrevistas y observación directa
           p.mb-0 Obtener información cualitativa sobre el desarrollo de los procesos y la prestación de los servicios.
         

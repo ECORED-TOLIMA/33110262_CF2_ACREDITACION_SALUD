@@ -11,7 +11,7 @@
         img(src='@/assets/curso/temas/tema3/img1.png', alt='')
       .col-lg-7
         .p-4.cajon.color-primario.mb-4
-          p.mb-0 El plan de mejoramiento es un instrumento de gestión que permite organizar y ejecutar las acciones necesarias para fortalecer aquellos aspectos identificados durante la autoevaluación que requieren intervención. Su elaboración se fundamenta en el análisis de los resultados obtenidos, la interpretación de la calificación y la identificación de oportunidades de mejora, con el propósito de incrementar el cumplimiento de los estándares de acreditación y promover la calidad en la prestación de los servicios de salud.
+          p.mb-0 El #[B plan de mejoramiento] es un instrumento de gestión que permite organizar y ejecutar las acciones necesarias para fortalecer aquellos aspectos identificados durante la autoevaluación que requieren intervención. Su elaboración se fundamenta en el análisis de los resultados obtenidos, la interpretación de la calificación y la identificación de oportunidades de mejora, con el propósito de incrementar el cumplimiento de los estándares de acreditación y promover la calidad en la prestación de los servicios de salud.
         p.mb-4 Este plan constituye una herramienta de planificación que orienta la definición de objetivos, actividades, responsables, recursos y tiempos de ejecución para atender las necesidades detectadas durante el proceso de evaluación. Asimismo, facilita el seguimiento sistemático de las acciones implementadas y permite verificar su eficacia mediante la revisión periódica de los resultados alcanzados.
     
     .row.justify-content-center.align-items-center.mb-4
@@ -170,8 +170,7 @@
                     | Estado
                   td
                     | Situación actual de la actividad (pendiente, en ejecución o finalizada).
-    p.mb-4
-      | Para comprender la aplicación de este formato, a continuación, se presenta un ejemplo de diligenciamiento con información simulada:
+    p.mb-4 Para comprender la aplicación de este formato, a continuación, se presenta un ejemplo de diligenciamiento con información simulada:
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
@@ -297,7 +296,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img15.svg', alt='Texto que describa la imagen')
         p #[b Fortalecer] el proceso de inducción del talento humano para promover el conocimiento de los procedimientos institucionales.
-    p.mb-4 continuación, se presentan algunos ejemplos de acciones de mejora que pueden formularse a partir de oportunidades identificadas durante la autoevaluación.
+    p.mb-4 A continuación, se presentan algunos ejemplos de acciones de mejora que pueden formularse a partir de oportunidades identificadas durante la autoevaluación.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12

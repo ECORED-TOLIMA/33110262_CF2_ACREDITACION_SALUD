@@ -143,10 +143,8 @@
                     | Bajo
                   td
                     | El estándar presenta debilidades importantes y demanda acciones de mejoramiento prioritarias.
-    p.mb-4
-      | La utilización de rangos facilita la comunicación de los resultados y permite que los equipos de trabajo comprendan con mayor claridad el nivel de desempeño alcanzado. Asimismo, favorece la priorización de las acciones de mejora y el seguimiento a los avances obtenidos durante los procesos de autoevaluación.
-    p.mb-4
-      | En algunos procesos de evaluación, además de los rangos, se emplean puntuaciones numéricas para representar el grado de cumplimiento de los estándares. Estas puntuaciones permiten realizar análisis comparativos, consolidar resultados institucionales y aplicar herramientas estadísticas que facilitan la interpretación de la información.
+    p La utilización de rangos facilita la comunicación de los resultados y permite que los equipos de trabajo comprendan con mayor claridad el nivel de desempeño alcanzado. Asimismo, favorece la priorización de las acciones de mejora y el seguimiento a los avances obtenidos durante los procesos de autoevaluación.
+    p.mb-4 En algunos procesos de evaluación, además de los rangos, se emplean puntuaciones numéricas para representar el grado de cumplimiento de los estándares. Estas puntuaciones permiten realizar análisis comparativos, consolidar resultados institucionales y aplicar herramientas estadísticas que facilitan la interpretación de la información.
     
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
@@ -331,7 +329,7 @@
       h2 2.4 Interpretación de la calificación
     
     p.mb-4 La interpretación de la calificación consiste en analizar el significado de los resultados obtenidos durante la evaluación de los estándares de acreditación, con el propósito de comprender el nivel de desempeño institucional y orientar la toma de decisiones para el mejoramiento continuo. Esta etapa permite transformar las puntuaciones y valoraciones en información útil para identificar fortalezas, reconocer oportunidades de mejora y establecer prioridades de intervención.
-    .BG022.px-5.mb-4
+    .BG022.px-10.px-lg-5.mb-4
       .row.justify-content-center.p-4
         .col-lg-4.col-8.mb-4.mb-lg-0
           img(src='@/assets/curso/temas/tema2/img9.png', alt='')

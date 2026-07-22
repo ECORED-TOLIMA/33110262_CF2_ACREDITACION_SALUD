@@ -150,7 +150,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_33110262_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -348,15 +348,16 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jorge Bustos Gómez',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
           nombre: 'María Fernanda Pineda Mora',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
+        {
+          nombre: 'Jorge Bustos Gómez',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+
       ],
     },
   ],
