@@ -408,7 +408,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 13.
-          span AEjemplo de seguimiento a una acción de mejora
+          span Ejemplo de seguimiento a una acción de mejora
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12
         .tabla-a.color-acento-contenido 
@@ -428,25 +428,30 @@
                     | 80 %
                 tr
                   td
-                    | Acción de mejora
+                    | Actualizar los procedimientos institucionales relacionados con la atención al usuario.
                   td
-                    | Avance
+                    | 100 %
                 tr
                   td
-                    | Capacitar al personal asistencial en protocolos de seguridad del paciente.
+                    | Implementar un sistema de seguimiento a los indicadores de calidad.
                   td
-                    | 80 %
+                    | 70 %
                 tr
                   td
-                    | Acción de mejora
+                    | Fortalecer el registro oportuno de la historia clínica.
                   td
-                    | Avance
+                    | 90 %
+                tr
+                  td
+                    | Realizar auditorías internas para verificar el cumplimiento de los protocolos institucionales.
+                  td
+                    | 60 %
     
     .row.justify-content-center.align-items-center
       .col-lg-1.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img23.svg', alt='')
       .col-lg-9
-        p.mb-0 El ejemplo anterior evidencia cómo el seguimiento permite registrar el avance de las acciones de mejora, verificar el cumplimiento de las actividades programadas y documentar las evidencias que respaldan los resultados obtenidos. De esta manera, el seguimiento facilita la toma de decisiones, la implementación de ajustes cuando son necesarios y el fortalecimiento del mejoramiento continuo en la institución.
+        p.mb-0 El ejemplo anterior evidencia cómo el seguimiento permite registrar el avance de las acciones de mejora, verificar el cumplimiento de las actividades programadas y documentar las evidencias que respaldan los resultados obtenidos. Asimismo, facilita la identificación de acciones finalizadas, aquellas que requieren seguimiento adicional y las que demandan ajustes para alcanzar los objetivos propuestos. De esta manera, el seguimiento favorece la toma de decisiones y fortalece el mejoramiento continuo de la institución.
 
 </template>
 
