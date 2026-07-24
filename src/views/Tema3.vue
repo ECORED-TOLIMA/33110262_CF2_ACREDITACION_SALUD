@@ -242,7 +242,7 @@
       .col-lg-3.mb-4.mb-lg-0
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img.tarjeta-avatar-b__img1
-            img(src='@/assets/curso/temas/tema3/img9.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img9.svg' alt='')
           .tarjeta.bg4.rounded-0
             .p-3
               h5.text-center Verbo en infinito
@@ -252,7 +252,7 @@
       .col-lg-3.mb-4.mb-lg-0
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img.tarjeta-avatar-b__img1
-            img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img10.svg' alt='')
           .tarjeta.bg4.rounded-0
             .p-3
               h5.text-center Actividad
@@ -262,7 +262,7 @@
       .col-lg-3
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img.tarjeta-avatar-b__img1
-            img(src='@/assets/curso/temas/tema3/img11.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img11.svg' alt='')
           .tarjeta.bg4.rounded-0
             .p-3
               h5.text-center Propósito
@@ -273,28 +273,28 @@
         .row.justify-content-center.mb-4
           .col-5
             figure
-              img(src='@/assets/curso/temas/tema3/img12.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img12.svg', alt='')
         p #[b Capacitar] al personal asistencial para fortalecer la aplicación de los protocolos de seguridad del paciente.
     
       .col-md.tarjeta.bg6.p-4
         .row.justify-content-center.mb-4
           .col-5
             figure
-              img(src='@/assets/curso/temas/tema3/img13.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img13.svg', alt='')
         p #[b Actualizar] los procedimientos institucionales para mejorar la gestión documental.
     
       .col-md.tarjeta.bg1.p-4
         .row.justify-content-center.mb-4
           .col-5
             figure
-              img(src='@/assets/curso/temas/tema3/img14.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img14.svg', alt='')
         p #[b Implementar] auditorías internas con el fin de verificar el cumplimiento de los estándares de calidad.
     
       .col-md.tarjeta.bg10.p-4
         .row.justify-content-center.mb-4
           .col-5
             figure
-              img(src='@/assets/curso/temas/tema3/img15.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img15.svg', alt='')
         p #[b Fortalecer] el proceso de inducción del talento humano para promover el conocimiento de los procedimientos institucionales.
     p.mb-4 A continuación, se presentan algunos ejemplos de acciones de mejora que pueden formularse a partir de oportunidades identificadas durante la autoevaluación.
 
@@ -346,7 +346,7 @@
       .col-lg-10
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img.tarjeta-avatar-b__img2
-            img(src='@/assets/curso/temas/tema3/img16.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img16.svg' alt='')
           .tarjeta.bg4
             .p-4
               p.mb-0 Una acción de mejora debe describir claramente #[b qué se hará, para qué se realizará, quién será responsable, cuándo se ejecutará y cómo se verificará su cumplimiento.] Estos elementos facilitan la gestión y el seguimiento del plan de mejoramiento.
@@ -370,7 +370,7 @@
       .tarjeta.bg9.mb-5.p-4
         .row.justify-content-center.mb-4.w-100
           .col-6
-            img(src='@/assets/curso/temas/tema3/img18.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img18.svg' alt='')
         h5.text-center Verificación del avance
         p.mb-5.text-center Comprobar el cumplimiento de las actividades programadas.
         br
@@ -379,25 +379,25 @@
       .tarjeta.bg9.p-4
         .row.justify-content-center.mb-4.w-100
           .col-6
-            img(src='@/assets/curso/temas/tema3/img19.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img19.svg' alt='')
         h5.text-center Revisión de evidencias
         p.text-center Confirmar que las acciones ejecutadas se encuentran respaldadas con información verificable.
       .tarjeta.bg9.p-4
         .row.justify-content-center.mb-4.w-100
           .col-6
-            img(src='@/assets/curso/temas/tema3/img20.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img20.svg' alt='')
         h5.text-center Evaluación de resultados
         p.text-center Determinar el impacto de las acciones implementadas sobre los procesos institucionales.
       .tarjeta.bg9.p-4
         .row.justify-content-center.mb-4.w-100
           .col-6
-            img(src='@/assets/curso/temas/tema3/img21.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img21.svg' alt='')
         h5.text-center Actualización del estado de las acciones
         p.text-center Registrar el progreso, los logros alcanzados y las actividades pendientes.
       .tarjeta.bg9.p-4
         .row.justify-content-center.mb-4.w-100
           .col-6
-            img(src='@/assets/curso/temas/tema3/img22.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema3/img22.svg' alt='')
         h5.text-center Implementación de ajustes
         p.text-center Modificar o fortalecer las acciones cuando los resultados obtenidos lo requieran.
       

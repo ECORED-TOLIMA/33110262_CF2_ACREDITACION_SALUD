@@ -36,7 +36,7 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Autoevaluación, calificación y mejoramiento en acreditación en salud',
-      titulo: 'Reto de la mejora continua',
+      titulo: 'Cuestionario',
       introduccion:
         '<b>Objetivo:</b> verificar la comprensión de los principales conceptos relacionados con el proceso de autoevaluación, la calificación y el plan de mejoramiento en acreditación en salud, favoreciendo la aplicación de estos conocimientos en el fortalecimiento de la calidad institucional.',
       barajarPreguntas: true,

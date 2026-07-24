@@ -1,2 +1,2 @@
 module.exports =
-  'Autoevaluación, calificación y mejoramiento en acreditación en salud.'
+  'Autoevaluación, calificación y mejoramiento en acreditación en salud'

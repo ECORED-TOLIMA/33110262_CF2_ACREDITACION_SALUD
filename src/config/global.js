@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Autoevaluación, calificación y mejoramiento en acreditación en salud.',
+    Name: 'Autoevaluación, calificación y mejoramiento en acreditación en salud',
     Description:
       'Este componente desarrolla el proceso de autoevaluación en acreditación en salud, abordando metodologías, herramientas, análisis e interpretación de resultados, criterios de calificación y formulación de planes de mejoramiento. Asimismo, fortalece la comprensión de las acciones orientadas al mejoramiento continuo y al cumplimiento de los estándares de acreditación.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
@@ -244,51 +244,51 @@ export default {
   referencias: [
     {
       referencia:
-        'Deming, W. E. (1989). Calidad, productividad y competitividad: La salida de la crisis. Díaz de Santos.',
+        'Deming, W. E. (1989). <em>Calidad, productividad y competitividad: La salida de la crisis. Díaz de Santos</em>.',
       link: '',
     },
     {
-      referencia: 'ICONTEC. (s. f.). Acreditación en salud.',
-      link: '',
-    },
-    {
-      referencia:
-        'Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC). (s. f.). ICONTEC.',
+      referencia: 'ICONTEC. (s. f.). <em>Acreditación en salud.</em>',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2018). Manual de Acreditación en Salud Ambulatorio y Hospitalario de Colombia, versión 3.1.',
+        'Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC). (s. f.). <em>ICONTEC</em>.',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). Sistema Obligatorio de Garantía de la Calidad en Salud.',
+        'Ministerio de Salud y Protección Social. (2018). <em>Manual de Acreditación en Salud Ambulatorio y Hospitalario de Colombia, versión 3.1.</em>',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). Sistema Único de Acreditación en Salud (SUA).',
+        'Ministerio de Salud y Protección Social. (s. f.). <em>Sistema Obligatorio de Garantía de la Calidad en Salud.</em>',
       link: '',
     },
     {
       referencia:
-        'Organismo Nacional de Acreditación de Colombia (ONAC). (s. f.). Organismo Nacional de Acreditación de Colombia.',
+        'Ministerio de Salud y Protección Social. (s. f.). <em>Sistema Único de Acreditación en Salud (SUA).</em>',
       link: '',
     },
     {
       referencia:
-        'Organización Mundial de la Salud (OMS). (s. f.). Calidad de la atención de salud.',
+        'Organismo Nacional de Acreditación de Colombia (ONAC). (s. f.). <em>Organismo Nacional de Acreditación de Colombia.</em>',
       link: '',
     },
     {
       referencia:
-        'Organización Panamericana de la Salud (OPS). (s. f.). Calidad de los servicios de salud.',
+        'Organización Mundial de la Salud (OMS). (s. f.). <em>Calidad de la atención de salud.</em>',
       link: '',
     },
     {
       referencia:
-        'Triola, M. F. (2018). Estadística (12.ª ed.). Pearson Educación.',
+        'Organización Panamericana de la Salud (OPS). (s. f.). <em>Calidad de los servicios de salud.</em>',
+      link: '',
+    },
+    {
+      referencia:
+        'Triola, M. F. (2018). <em>Estadística (12.ª ed.). Pearson Educación.</em>',
       link: '',
     },
   ],

@@ -47,11 +47,11 @@
     .bg3.mb-4
       .row.justify-content-center
         .col-lg-5
-          img(src='@/assets/curso/temas/tema1/img4.png', alt='Imagen ilustrativa')
+          img(src='@/assets/curso/temas/tema1/img4.png', alt='')
         .col-lg-7.p-4
           .row
             .col-lg-auto.mb-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/tema1/img5.svg', alt='Imagen ilustrativa')
+              img(src='@/assets/curso/temas/tema1/img5.svg', alt='')
             .col-lg-12
               p.mb-0 La autoevaluación constituye uno de los pilares del Sistema Único de Acreditación en Salud (SUA), ya que permite a las instituciones conocer su situación actual antes de una evaluación externa y fortalecer una cultura organizacional orientada al mejoramiento continuo. Asimismo, favorece la identificación de fortalezas, la detección de brechas y la implementación de acciones encaminadas a optimizar la calidad de la atención y la seguridad del paciente.
     p.mb-4 Su importancia radica en que promueve una evaluación objetiva del desempeño institucional, facilitando la planificación de acciones de mejora sustentadas en información confiable y verificable. Además, fortalece el compromiso del talento humano con la calidad, fomenta la participación de las diferentes áreas de la organización y contribuye al cumplimiento de los estándares establecidos para la acreditación en salud.
@@ -60,38 +60,38 @@
       .row.justify-content-center.align-items-center
         .col-lg-4.d-none.d-lg-block
           figure(data-aos="zoom-in")
-            img(src="@/assets/curso/temas/tema1/img6.png", alt="alt").img400.m-auto
+            img(src="@/assets/curso/temas/tema1/img6.png", alt="").img400.m-auto
         .col-lg-8
           SlyderF.custom.mb-5.p-4(columnas="col-lg-6 col-xl-4")
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src="@/assets/curso/temas/tema1/img7.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img7.svg", alt="").img100.m-auto
               p.text-center.mb-5 Fortalecer la toma de decisiones basada en evidencias.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src="@/assets/curso/temas/tema1/img8.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img8.svg", alt="").img100.m-auto
               p.text-center.mb-0 Identificar fortalezas y oportunidades de mejora.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src="@/assets/curso/temas/tema1/img9.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img9.svg", alt="").img100.m-auto
               p.text-center.mb-0 Valorar el cumplimiento de los estándares de acreditación.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src="@/assets/curso/temas/tema1/img10.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img10.svg", alt="").img100.m-auto
               p.text-center.mb-0 Promover la participación del talento humano.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src="@/assets/curso/temas/tema1/img11.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img11.svg", alt="").img100.m-auto
               p.text-center.mb-0 Impulsar el mejoramiento continuo de los procesos institucionales.
             .tarjeta.bg7.p-4
               .row.justify-content-center.mb-3
                 .col-6
-                  img(src="@/assets/curso/temas/tema1/img12.svg", alt="alt").img100.m-auto
+                  img(src="@/assets/curso/temas/tema1/img12.svg", alt="").img100.m-auto
               p.text-center.mb-0 Favorecer la preparación para la evaluación externa.
             
     p.mb-0 La autoevaluación constituye, por tanto, un mecanismo que permite a las instituciones conocer su nivel de desempeño, orientar la formulación de planes de mejoramiento y fortalecer la calidad de los servicios de salud en beneficio de las personas usuarias.
@@ -180,42 +180,42 @@
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img16.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img16.png', alt='')
           h4.mb-3 Listas de verificación
           p.mb-0 Comprobar el cumplimiento de criterios y estándares de acreditación.
         .tarjeta--boton.bg5.p-4.mb-4
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img17.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img17.png', alt='')
           h4.mb-3 Formatos de autoevaluación
           p.mb-0 Registrar de manera organizada la información obtenida durante la evaluación.
         .tarjeta--boton.bg5.p-4.mb-4
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img18.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img18.png', alt='')
           h4.mb-3 Indicadores de gestión
           p.mb-0 Medir el desempeño de los procesos mediante datos cuantitativos.
         .tarjeta--boton.bg5.p-4.mb-4
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img19.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img19.png', alt='')
           h4.mb-3 Matrices de análisis
           p.mb-0 Relacionar evidencias, hallazgos y oportunidades de mejora.
         .tarjeta--boton.bg5.p-4.mb-4
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img20.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img20.png', alt='')
           h4.mb-3 Registros institucionales
           p.mb-0 Documentar actividades, resultados y evidencias del proceso de evaluación.
         .tarjeta--boton.bg5.p-4.mb-4
           .row.justify-content-center.mb-3
             .col
               figure
-                img(src='@/assets/curso/temas/tema1/img21.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img21.png', alt='')
           h4.mb-3 Entrevistas y observación directa
           p.mb-0 Obtener información cualitativa sobre el desarrollo de los procesos y la prestación de los servicios.
         
@@ -225,7 +225,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img16.png", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img16.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Listas de verificación
             p.mb-0 Comprobar el cumplimiento de criterios y estándares de acreditación.
@@ -234,7 +234,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img17.png", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img17.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Formatos de autoevaluación
             p.mb-0 Registrar de manera organizada la información obtenida durante la evaluación.
@@ -243,7 +243,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img18.png", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img18.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Indicadores de gestión
             p.mb-0 Medir el desempeño de los procesos mediante datos cuantitativos.
@@ -252,7 +252,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img19.png", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img19.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Matrices de análisis
             p.mb-0 Relacionar evidencias, hallazgos y oportunidades de mejora.
@@ -261,7 +261,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img20.png", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img20.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Registros institucionales
             p.mb-0 Documentar actividades, resultados y evidencias del proceso de evaluación.
@@ -270,7 +270,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema1/img21.png", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img21.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Entrevistas y observación directa
             p.mb-0 Obtener información cualitativa sobre el desarrollo de los procesos y la prestación de los servicios.
@@ -375,37 +375,37 @@
       .tarjeta.bg9.p-4
         .row.justify-content-center.w-100
           .col-7
-            img(src='@/assets/curso/temas/tema1/img27.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img27.svg' alt='')
         h4.text-center.text-black Liderazgo institucional
         p.mb-5 La alta dirección orienta el proceso, promueve la participación del personal y facilita la disponibilidad de recursos para desarrollar la autoevaluación.
       .tarjeta.bg9.p-4
         .row.justify-content-center.w-100
           .col-7
-            img(src='@/assets/curso/temas/tema1/img28.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img28.svg' alt='')
         h4.text-center.text-black Participación del talento humano
         p.mb-5 La colaboración de los diferentes equipos de trabajo permite obtener información desde distintas perspectivas y fortalece el compromiso con la calidad.
       .tarjeta.bg9.p-4
         .row.justify-content-center.w-100
           .col-7
-            img(src='@/assets/curso/temas/tema1/img29.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img29.svg' alt='')
         h4.text-center.text-black Uso de evidencias objetivas
         p.mb-5 Las conclusiones deben fundamentarse en documentos, registros, indicadores y demás evidencias verificables que respalden la evaluación.
       .tarjeta.bg9.p-4
         .row.justify-content-center.w-100
           .col-7
-            img(src='@/assets/curso/temas/tema1/img30.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img30.svg' alt='')
         h4.text-center.text-black Comunicación entre las áreas
         p.mb-5 El intercambio de información favorece la coordinación de actividades, la identificación de oportunidades de mejora y la construcción de soluciones conjuntas.
       .tarjeta.bg9.p-4
         .row.justify-content-center.w-100
           .col-7
-            img(src='@/assets/curso/temas/tema1/img31.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img31.svg' alt='')
         h4.text-center.text-black Planificación del proceso
         p.mb-5 Definir responsables, cronogramas, metodologías y recursos facilita el desarrollo ordenado de la autoevaluación.
       .tarjeta.bg9.p-4
         .row.justify-content-center.w-100
           .col-7
-            img(src='@/assets/curso/temas/tema1/img32.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img32.svg' alt='')
         h4.text-center.text-black Compromiso con el mejoramiento continuo
         p.mb-5 La institución utiliza los resultados de la autoevaluación para implementar acciones de mejora y fortalecer permanentemente la calidad de los servicios.
     p.mb-4

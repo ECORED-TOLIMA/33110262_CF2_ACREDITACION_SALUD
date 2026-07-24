@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Síntesis del componente formativo sobre autoevaluación, calificación y mejoramiento en acreditación en salud.")
+          img(src="@/assets/curso/sintesis.svg", alt="En la síntesis se presentan los principales temas del componente formativo, relacionados con el proceso de autoevaluación, la calificación en los procesos de acreditación y el plan de mejoramiento, destacando sus elementos fundamentales y su contribución al mejoramiento continuo de la calidad en las instituciones de salud.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
